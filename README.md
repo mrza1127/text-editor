@@ -14,4 +14,4 @@
 - You must run `npm start` to start the server
 
 ## Links
-- [Deployed Heroku Application](https://git.heroku.com/ismo-text-editor.git)
+- [Deployed Heroku Application](https://ismo-text-editor.herokuapp.com/)
