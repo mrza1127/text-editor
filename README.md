@@ -1,1 +1,3 @@
-# text-editor
+# Text Editor
+
+## Time to edit TExt!
